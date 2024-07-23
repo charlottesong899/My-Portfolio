@@ -1,11 +1,11 @@
 body {
-    background-image: url(/images/background_2.jpg);
+    background-image: url(images/background_2.jpg);
     font-family: Arial, sans-serif;
     line-height: 1.6;
 }
 
 header {
-    background-image: url(/images/cover_2.jpg);/*add images to background*/
+    background-image: url(images/cover_2.jpg);/*add images to background*/
     background-position: center;
     display: 100%;
     height: 250px;
